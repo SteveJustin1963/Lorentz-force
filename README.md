@@ -1,4 +1,4 @@
-## Magnetic Levitation Systems
+## 1 Magnetic Levitation Systems
 
 To design and experiment with the TEC-1 SBC for investigating the application of the Lorentz force in magnetic levitation systems, here’s an approach:
 
