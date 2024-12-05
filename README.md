@@ -205,12 +205,12 @@ To use this code:
 
 These diagrams show:
 
-1. **System Architecture** (Mermaid Diagram):
+1. **System Architecture**  
 - Shows the logical connections between components
 - Illustrates data flow through the system
 - Highlights the four main subsystems: TEC-1, Sensors, Magnetic System, and Interface
 
-2. **Physical Setup** (SVG Diagram):
+2. **Physical Setup**  
 - Shows the spatial arrangement of components
 - Illustrates the magnetic field interaction
 - Details sensor placement around the levitating object
@@ -562,7 +562,7 @@ showing both the system architecture and physical setup of the electromagnetic b
 
 These diagrams show:
 
-1. **System Architecture** (Mermaid Diagram):
+1. **System Architecture**  
 - Shows the logical connections between components
 - Illustrates data flow through the system
 - Highlights four main subsystems:
@@ -571,7 +571,7 @@ These diagrams show:
   - Braking System
   - User Interface
 
-2. **Physical Setup** (SVG Diagram):
+2. **Physical Setup**  
 - Shows spatial arrangement of components:
   - Rotating wheel with brake assembly
   - Three sensor positions
