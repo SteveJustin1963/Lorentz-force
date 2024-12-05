@@ -552,7 +552,8 @@ To use the system:
    - Start control: `M`
    - Stop system: `H`
 
-## diagrams showing both the system architecture and physical setup of the electromagnetic braking system.
+## diagrams 
+showing both the system architecture and physical setup of the electromagnetic braking system.
 
 ![image](https://github.com/user-attachments/assets/b3db59b6-e532-4b33-b6f2-9be960e074ec)
 
