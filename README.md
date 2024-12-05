@@ -224,9 +224,14 @@ Key Components Shown:
 5. Magnetic field lines showing the interaction
 6. Control connections between TEC-1 and components
 
+
+
 ![image](https://github.com/user-attachments/assets/f8a2553d-100f-4d7d-93a7-2b1b0a054b5e)
 
 ![image](https://github.com/user-attachments/assets/680d0fd3-f761-4394-8666-d2a412014fb8)
 
+
+
+## 2 Electromagnetic Braking
 
 
