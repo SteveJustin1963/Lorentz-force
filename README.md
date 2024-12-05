@@ -197,6 +197,36 @@ To use this code:
 2. Start the control loop: `M`
 3. To stop: `H`
 
-##
+
+## diagram of magnetic levitation experiment setup
+
+These diagrams show:
+
+1. **System Architecture** (Mermaid Diagram):
+- Shows the logical connections between components
+- Illustrates data flow through the system
+- Highlights the four main subsystems: TEC-1, Sensors, Magnetic System, and Interface
+
+2. **Physical Setup** (SVG Diagram):
+- Shows the spatial arrangement of components
+- Illustrates the magnetic field interaction
+- Details sensor placement around the levitating object
+- Shows physical connections to the TEC-1
+
+Key Components Shown:
+1. TEC-1 Computer with display and keypad
+2. Electromagnet positioned above
+3. Levitating object in the middle
+4. Three sensors:
+   - Hall effect sensor (magnetic field measurement)
+   - Distance sensor (position feedback)
+   - Load cell (force measurement)
+5. Magnetic field lines showing the interaction
+6. Control connections between TEC-1 and components
+
+![image](https://github.com/user-attachments/assets/f8a2553d-100f-4d7d-93a7-2b1b0a054b5e)
+
+![image](https://github.com/user-attachments/assets/680d0fd3-f761-4394-8666-d2a412014fb8)
+
 
 
